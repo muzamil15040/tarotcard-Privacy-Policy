@@ -113,8 +113,8 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have questions about this Privacy Policy or the App, contact us at:
 
-Email: YOUR_EMAIL@example.com
-Developer: YOUR_NAME_OR_COMPANY
+Email: muzamil15040@gmail.com
+Developer: Muzamil Zafar
 
 
 14. GOOGLE PLAY DATA SAFETY SUMMARY
